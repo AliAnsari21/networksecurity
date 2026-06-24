@@ -1,6 +1,6 @@
 python-dotenv
 pandas
 numpy
-#-e .
+-e .
 pymongo
 certifi
