@@ -4,3 +4,5 @@ numpy
 #-e .
 pymongo
 certifi
+pymongo[srv]==3.11
+pymongo[srv]==3.6
